@@ -1,5 +1,5 @@
 # Deep Learning 2024 NMA
-This repo contains material from the Deep Learning 2024 course by NeuroMatch Academy. Each module is listed below. Python notebooks are provided for each project completed, followed by a walkthrough of the code, created by me. Code is modified from the Deep Learning 2024 student portal, specific credits are included in each notebook.
+This repo contains material from the Deep Learning 2024 course by NeuroMatch Academy. Each module is listed below. Python notebooks are provided for each project completed, followed by a walkthrough of the code. Code is modified from sources which are specified and acknowledged in each notebook.
 
 ### ⚙️ Basics 
 - Basics and Pytorch
